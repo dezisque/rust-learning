@@ -4,15 +4,15 @@
 
 + [x] Getting Started
   + [x] Installation
-  + Hello, World!
-  + Hello, Cargo!
+  + [x] Hello, World!
+  + [x] Hello, Cargo!
 + [x] Programming a Guessing Game
-  + [ ] Common Programming Concepts
-  + Variables and Mutability
-  + Data Types
-  + Functions
-  + Comments
-  + Control Flow
++ [ ] Common Programming Concepts
+  + [x] Variables and Mutability
+  + [ ] Data Types
+  + [ ] Functions
+  + [ ] Comments
+  + [ ] Control Flow
 4. [ ] Understanding Ownership
 4.1. What is Ownership?
 4.2. References and Borrowing
