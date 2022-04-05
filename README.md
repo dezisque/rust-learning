@@ -2,17 +2,17 @@
 
 ### Task list
 
-1. [x] Getting Started
-  1.1. [x] Installation
-  1.2. Hello, World!
-  1.3. Hello, Cargo!
-2.  [x] Programming a Guessing Game
-3. [ ] Common Programming Concepts
-3.1. Variables and Mutability
-3.2. Data Types
-3.3. Functions
-3.4. Comments
-3.5. Control Flow
++ [x] Getting Started
+  + [x] Installation
+  + Hello, World!
+  + Hello, Cargo!
++ [x] Programming a Guessing Game
+  + [ ] Common Programming Concepts
+  + Variables and Mutability
+  + Data Types
+  + Functions
+  + Comments
+  + Control Flow
 4. [ ] Understanding Ownership
 4.1. What is Ownership?
 4.2. References and Borrowing
