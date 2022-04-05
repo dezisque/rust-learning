@@ -9,7 +9,7 @@
 + [x] Programming a Guessing Game
 + [ ] Common Programming Concepts
   + [x] Variables and Mutability
-  + [ ] Data Types
+  + [x] Data Types
   + [ ] Functions
   + [ ] Comments
   + [ ] Control Flow
